@@ -25,3 +25,10 @@ Accuracy: **84.3%**
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Model File Notice
+
+The trained model file (`hotel_model.pkl`) is excluded from GitHub due to file size limitations.
+
+To run locally, retrain the model using the provided notebook/code pipeline.
